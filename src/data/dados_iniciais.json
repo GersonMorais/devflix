@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Saiba tudo sobre carreira de dev",
+          "url": "https://www.youtube.com/watch?v=RlK8nu_YErc"
         },
         {
           "titulo": "SEO com React",
@@ -100,24 +100,28 @@
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Carreira",
       "cor": "orange",
+      "link_extra": {
+        "text": "Tudo sobre carreira",
+        "url": "https://www.youtube.com/watch?v=eUwiTnK0EA0"
+      },      
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "LIVE: Quando me tornei um Programador Profissional (A História de 16 Programadores)",
+          "url": "https://www.youtube.com/watch?v=eUwiTnK0EA0"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Qual era nosso SALÁRIO no início de carreira como programadores",
+          "url": "https://www.youtube.com/watch?v=Y4mGMf4rzeU"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Como se destacar na carreira? Dicas e técnicas | Podcast FalaDev",
+          "url": "https://www.youtube.com/watch?v=xWKRXJ7b9Lw"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Carreira Front-end - Alura Live",
+          "url": "https://www.youtube.com/watch?v=Hyv5dY38Ep0"
         }
       ]
     },

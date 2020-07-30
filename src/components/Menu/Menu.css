@@ -29,6 +29,7 @@
   body {
     --bodyPaddingTop: 94px;
     padding-top: var(--bodyPaddingTop);
+    background-color: dimgrey;
   }
   @media (max-width: 800px) {
     .Menu {
